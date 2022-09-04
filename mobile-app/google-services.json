@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "577941795438",
+    "firebase_url": "https://ut-cabs-360403-default-rtdb.firebaseio.com",
+    "project_id": "ut-cabs-360403",
+    "storage_bucket": "ut-cabs-360403.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577941795438:android:4ea161c9a569936ebbac7f",
+        "android_client_info": {
+          "package_name": "com.njosse.utcabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577941795438-418t7ia2mg8mupcgv0bgi9dqbj3gu628.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVPpe32FSPMnT5ab1AFr3oN0F6sbZjXTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577941795438-418t7ia2mg8mupcgv0bgi9dqbj3gu628.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "577941795438-2kr5mrunpvr0hpm3hduve8t27kpuqh2o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.njosse.utcabs00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

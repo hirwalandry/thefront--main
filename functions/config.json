@@ -1,0 +1,116 @@
+{
+	"app_name": "Ut Cabs",
+	"app_description": "Ride services",
+	"app_identifier": "com.njosse.utcabs",
+	"ios_app_version": "1.0.0",
+	"android_app_version": "100",
+	"facebookAppId": "1131732104392831",
+	"facebookClientToken": "ee6f8da8ca140c776fcca3eafead879f",
+	"firebaseProjectId": "ut-cabs-360403",
+	"googleApiKeys": {
+		"ios": "AIzaSyBMD4gH0pHU4s-bQ0oIaLNfCBgjsvon1zE",
+		"android": "AIzaSyBVPpe32FSPMnT5ab1AFr3oN0F6sbZjXTo",
+		"web": "AIzaSyBNm-rsMXM1wT-Dftm7q6TI3m_t4X6f_F8",
+		"server": "AIzaSyDsew3l8vW834LfXXL3btHsSWi1oropnI4"
+	},
+	"expo_owner": "utcabs",
+	"expo_slug": "ut-cabs-360403",
+	"admin_email": "tuyispacy@gmail.com",
+	"codecanyon_purchase_code": "f3388f65-1c7e-40e7-a5a1-b471214d4e25",
+	"smtpDetails": {
+		"host": "smtp.gmail.com",
+		"port": 465,
+		"secure": true,
+		"auth": {
+			"user": "earbyumbadioce@gmail.com",
+			"pass": "yaigvwdrnwjjjzla"
+		}
+	},
+	"paymentMethods": {
+		"braintree": {
+			"active": false,
+			"testing": true,
+			"merchantId": "XXXXXXXXXXXXXXX",
+			"publicKey": "XXXXXXXXXXXXXXX",
+			"privateKey": "XXXXXXXXXXXXXXX"
+		},
+		"culqi": {
+			"active": false,
+			"PUBLIC_KEY": "XXXXXXXXXXXXXXX",
+			"SECURE_KEY": "XXXXXXXXXXXXXXX"
+		},
+		"flutterwave": {
+			"active": false,
+			"FLUTTERWAVE_PUBLIC_KEY": "XXXXXXXXXXXXXXX",
+			"FLUTTERWAVE_SECRET_KEY": "XXXXXXXXXXXXXXX"
+		},
+		"liqpay": {
+			"active": false,
+			"public_key": "XXXXXXXXXXXXXXX",
+			"private_key": "XXXXXXXXXXXXXXX"
+		},
+		"mercadopago": {
+			"active": false,
+			"public_key": "XXXXXXXXXXXXXXX",
+			"access_token": "XXXXXXXXXXXXXXX"
+		},
+		"payfast": {
+			"active": false,
+			"testingMode": true,
+			"PAYFAST_MEWRCHANT_ID": "XXXXXXXXXXXXXXX",
+			"PAYFAST_MERCHANT_KEY": "XXXXXXXXXXXXXXX",
+			"passPhrase": null
+		},
+		"paypal": {
+			"active": false,
+			"testing": true,
+			"paypal_client_id": "AaNlAxaSLDXE8rdBDpIivDWmcLh6grqXD5Z7RfiwiX1tmaD5_eDDJMSicjusRaTD1k8X6gOYXQggkFKI",
+			"paypal_secret": "EGHQVC29YGr7GTYmOhj_gMNtAaGd_7GIg0uMVcfVVVi-8VrSqLQkpEW7Fli76oqRHBEzYnZogSFuF9aq"
+		},
+		"paystack": {
+			"active": false,
+			"PAYSTACK_PUBLIC_KEY": "XXXXXXXXXXXXXXX",
+			"PAYSTACK_SECRET_KEY": "XXXXXXXXXXXXXXX"
+		},
+		"paytm": {
+			"active": false,
+			"testing": true,
+			"PAYTM_MEWRCHANT_ID": "XXXXXXXXXXXXXXX",
+			"PAYTM_MERCHANT_KEY": "XXXXXXXXXXXXXXX"
+		},
+		"payulatam": {
+			"active": false,
+			"testing": true,
+			"merchantId": 111111,
+			"apiKey": "XXXXXXXXXXXXXXX",
+			"accountId": 111111
+		},
+		"securepay": {
+			"active": false,
+			"testing": true,
+			"MERCHANT_CODE": "XXXXXXXXXXXXXXX",
+			"TXN_PASSWORD": "XXXXXXXXXXXXXXX"
+		},
+		"stripe": {
+			"active": false,
+			"stripe_private_key": "XXXXXXXXXXXXXXX",
+			"stripe_public_key": "XXXXXXXXXXXXXXX"
+		},
+		"squareup": {
+			"active": false,
+			"testing": true,
+			"APPLICATION_ID": "XXXXXXXXXXXXXXX",
+			"LOCATION_ID": "XXXXXXXXXXXXXXX",
+			"ACCESS_TOKEN": "XXXXXXXXXXXXXXX"
+		},
+		"wipay": {
+			"active": false,
+			"testing": true,
+			"ACCOUNT_NO": "XXXXXXXXXXXXXXX",
+			"API_KEY": "XXXXXXXXXXXXXXX"
+		},
+		"test": {
+			"active": true
+		}
+	}
+}
